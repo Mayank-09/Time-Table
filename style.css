@@ -24,5 +24,6 @@ tr:nth-child(even) td:nth-child(odd),
  tr:nth-child(odd) td:nth-child(even) {
      background-color: red;
      text-align: center;
+     color:white;
  }
  
